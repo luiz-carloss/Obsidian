@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Mundo Eterno.md",
+                "file": "Caligem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O Mundo Eterno"
+              "title": "Caligem"
             }
           }
         ]
@@ -186,11 +186,12 @@
   },
   "active": "2f57f736181fe711",
   "lastOpenFiles": [
-    "README.md",
     "Caligem.md",
-    "O Mundo Eterno.md",
+    "Mundo dos Sonhos.md",
+    "Mundo Eterno.md",
     "As Camadas da Existência.md",
+    "Sem título.canvas",
     "teste.md",
-    "Sem título.canvas"
+    "README.md"
   ]
 }

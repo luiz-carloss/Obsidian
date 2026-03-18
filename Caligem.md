@@ -1,27 +1,59 @@
-O inconcebível todo pode ser visto em dimensões. Camadas do universo que se dividem em mecanismos e abstrações que funcionam por trás das cortinas, mantendo a existência em ordem.
-
-  
-
-[[O Mundo Eterno]].
-[[O Mundo Real]].
-[[O Mundo dos Sonhos]].
-
-  
-
-O mundo real é onde vivemos. Tudo o que existe está aqui, no plano físico onde eu e você sentimos, vivemos, amamos e morremos.
-
-O mundo dos sonhos é onde vive o inconsciente. Coisas que existem somente nos nossos sonhos, se manifestam neste plano como energia viva e caótica, além da nossa compreensão.
-
-O mundo eterno é o mundo perfeito, onde tudo existe em sua forma mais abstrata. Um plano de ordem absoluta, aquém da nossa compreensão.
-
-
-Todos os objetos que existem no mundo real são instâncias dos conceitos que existem no mundo eterno.
-Tudo o que existe no mundo dos sonhos, são produtos de suas fontes do mundo real.
-
+Caligens são manifestações sombrias dos ideais da humanidade.
 
 Embora o custo de energia tremenda geralmente é o bastante para manter os seres separados em seus respectivos planos, há a possibilidade de viagem entre os mundos. Infelizmente para todos os envolvidos, os mundos não foram feitos para colidir.
 
-Quando poder de um sonho ultrapassa o custo, ele se encarna no mundo real como uma criatura terrível. A [[Caligem]].
+---
+
+**No Mundo dos Sonhos**
+
+Caligens originalmente são seres de pura energia, que existem somente dentro do [[Mundo dos Sonhos]]. Eles são criaturas de instinto, tendo  um nível de inteligência variado. A maioria das Caligens podem ser equiparadas a animais, entretanto, por serem criaturas de sonhos e ideias, a comunicação que elas são capazes de receber simplesmente funciona de maneira diferente da qual os humanos conseguem compreender.
+
+Cada humano tem sua própria Caligem. Um amalgamado de ideias, esperanças, sonhos e pesadelos que representam uma alma, encarnados em forma sombria e etereal. 
+A Caligem não é o seu medo. Ela é o seu todo.
+
+Ela toma a forma do que você ama, fundido com aquilo que jaz no poço mais sombrio de sua alma. Todo o seu amor e o seu ódio se unem em uma única criatura. O choro da sua Caligem é o eco das lágrimas do seu coração, e a ira de sua Caligem é o silêncio que cala a sua razão.
+
+O poder de uma Caligem reflete o poder da [[Nitescência]] da pessoa que a originou. Quanto mais fortes forem as ideias, os medos e os sonhos de uma pessoa, mais poderosa se torna a Caligem.
+
+---
+
+**No Mundo Real**
+
+Quando uma pessoa dorme, o poder de sua Caligem aumenta exponencialmente. Com esse potencial imenso e incontrolável, as Caligens acidentalmente ultrapassam a barreira entre os mundos, e se manifestam em nossa existência, onde a luz da lua toca. 
+
+O resultado, é que uma criatura sem uma estrutura física compreensível é encarnada em um mundo onde ela é capaz de sentir com todo o seu corpo. 
+Entretanto, como Caligens são seres de pura energia, o resultado tende a ser uma criatura que só é capaz de sentir a intensidade constante dessa pressão em todo o seu corpo simultaneamente, constantemente.
+A sensação, é como se alguém estivesse sendo queimado pela força radioativa de uma estrela por dentro a todos os momentos.
+
+Cada segundo que uma Caligem passa no Mundo Real é tortura. O único objetivo que elas têm no geral é pararem de existir.
+
+---
+
+**Trajetória de uma única pessoa**
+
+Quando uma pessoa nasce, suas ideias não são potentes o bastante para que uma Caligem apareça no mundo real. Isso tende a acontecer somente aos 5-9 anos de idade.
+A partir daí, a Caligem vai começar a surgir no mundo físico.  Sentindo toda a sua dor, a Caligem vai sempre tentar ir em direção à sua Fonte, a pessoa que está dormindo e gerando sua existência.
+A Caligem sempre vai saber onde sua Fonte está, não importa onde.
+Inicialmente, a Caligem simplesmente interrompe o sono de suas fontes. Porém com o passar dos tempos, a Caligem fica mais e mais agressiva, eventualmente resultando em ataques violentos, que frequentemente terminam em morte.
+
+Quando uma pessoa acorda, a Caligem demora de 30-120 segundos para parar de existir no [[Mundo Real]] . Quando uma pessoa morre, a Caligem desaparece imediatamente, no mesmo exato momento em que a pessoa solta seu último suspiro.
+
+---
+
+**Então, como não fomos extintos?**
+
+Primeiro, Caligens só aparecem onde a luz do luar toca. Isso significa que há períodos mensais onde as Caligens se tornam muito mais frequentes e abundantes, mas em períodos de lua nova, eles tendem a não aparecer.
+
+Isso fez com que várias sociedades desenvolvessem maneiras diferentes de impe
+
+
+
+
+
+
+
+
+Quando poder de um sonho ultrapassa o custo, ele se encarna no mundo real como uma criatura terrível. A Caligem.
 
 Todo mundo tem uma [[Caligem]]. Um amalgamado de ideias, esperanças, sonhos e pesadelos que representam uma alma, encarnados em forma sombria e violenta. Quando alguém dorme, sua [[Caligem]] se torna forte o bastante para se infiltrar no nosso mundo, nos lugares onde a luz do luar brilha forte.
 
