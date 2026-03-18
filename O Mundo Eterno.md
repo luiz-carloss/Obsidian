@@ -1,0 +1,1 @@
+O Mundo Eterno, ou Mundo Ideal, funciona como um tipo de "Base" pro código da nossa existência.
