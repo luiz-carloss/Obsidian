@@ -44,7 +44,7 @@ Quando uma pessoa acorda, a Caligem demora de 30-120 segundos para parar de exis
 
 Primeiro, Caligens só aparecem onde a luz do luar toca. Isso significa que há períodos mensais onde as Caligens se tornam muito mais frequentes e abundantes, mas em períodos de lua nova, eles tendem a não aparecer.
 
-Isso fez com que várias sociedades desenvolvessem maneiras diferentes de impe
+Isso fez com que várias sociedades desenvolvessem maneiras diferentes de impedir que a luz do luar encostasse em qualquer lugar com população densa, enquanto lugares com população 
 
 
 
