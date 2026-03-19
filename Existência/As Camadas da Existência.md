@@ -21,17 +21,17 @@ Tudo o que existe no mundo dos sonhos, são produtos de suas fontes do mundo rea
 
 Embora o custo de energia tremenda geralmente é o bastante para manter os seres separados em seus respectivos planos, há a possibilidade de viagem entre os mundos. Infelizmente para todos os envolvidos, os mundos não foram feitos para colidir.
 
-Quando poder de um sonho ultrapassa o custo, ele se encarna no mundo real como uma criatura terrível. A [[Caligem]].
+Quando poder de um sonho ultrapassa o custo, ele se encarna no mundo real como uma criatura terrível. A [[Caligens]].
 
-Todo mundo tem uma [[Caligem]]. Um amalgamado de ideias, esperanças, sonhos e pesadelos que representam uma alma, encarnados em forma sombria e violenta. Quando alguém dorme, sua [[Caligem]] se torna forte o bastante para se infiltrar no nosso mundo, nos lugares onde a luz do luar brilha forte.
+Todo mundo tem uma [[Caligens]]. Um amalgamado de ideias, esperanças, sonhos e pesadelos que representam uma alma, encarnados em forma sombria e violenta. Quando alguém dorme, sua [[Caligens]] se torna forte o bastante para se infiltrar no nosso mundo, nos lugares onde a luz do luar brilha forte.
 
   
 
-A [[Caligem]] não é o seu medo. Ela é você, corrupto.
+A [[Caligens]] não é o seu medo. Ela é você, corrupto.
 
-Ela toma a forma do que você ama, fundido com aquilo que jaz no poço mais sombrio de sua alma. Todo o seu amor e o seu ódio se unem em uma criatura feroz. O choro da sua [[Caligem]] é o eco das lágrimas do seu coração, e a ira de sua [[Caligem]] é o silêncio que cala a sua razão.
+Ela toma a forma do que você ama, fundido com aquilo que jaz no poço mais sombrio de sua alma. Todo o seu amor e o seu ódio se unem em uma criatura feroz. O choro da sua [[Caligens]] é o eco das lágrimas do seu coração, e a ira de sua [[Caligens]] é o silêncio que cala a sua razão.
 
-O evento em que uma pessoa sobrevive um encontro com uma [[Caligem]], independente se ela pertence ou não à você, é raro.
+O evento em que uma pessoa sobrevive um encontro com uma [[Caligens]], independente se ela pertence ou não à você, é raro.
 
   
 
@@ -75,7 +75,7 @@ Uma faca é utilizada para preparar refeições. Logo, isto a conecta a um garfo
 
   
 
-Quando uma [[Caligem]] é perfurada por uma arma banhada na esperança das estrelas, isto é, uma arma transformada com o polimorfismo, a [[Caligem]] é purificada em Nitescência. A forma mais pura de um sonho, pacífico e brilhante. Uma vez que uma [[Caligem]] é purificada, ela não retorna mais.
+Quando uma [[Caligens]] é perfurada por uma arma banhada na esperança das estrelas, isto é, uma arma transformada com o polimorfismo, a [[Caligens]] é purificada em Nitescência. A forma mais pura de um sonho, pacífico e brilhante. Uma vez que uma [[Caligens]] é purificada, ela não retorna mais.
 
   
 

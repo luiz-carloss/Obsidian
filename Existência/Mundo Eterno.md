@@ -1,8 +1,7 @@
 O Mundo Eterno, ou Mundo Ideal, funciona como um tipo de "Base" pro código da nossa existência.
 
 ---
-
-**Programação Orientada a Objetos**
+### **Programação Orientada a Objetos**
 
 Existe um tipo de programação um pouco mais avançado que permite que o código seja organizado de maneira eficiente, através de Classes, Instâncias e Objetos.
 
@@ -28,8 +27,7 @@ Atributos: `rodas`, `portas`, `assentos`
 Objeto: `caminhao_do_seu_ze`
 
 ---
-
-**Mundo Ideal Platônico**
+### **Mundo Ideal Platônico**
 
 A Teoria das Formas de Platão, de maneira resumida, surge da pergunta "Qual é a forma absoluta das coisas?"
 Se eu te pedir pra pensar em um assento, há um bilhão de possibilidades sobre o que você pensaria.
@@ -41,8 +39,7 @@ Seguindo o nosso exemplo, poderia-se dizer que existe a forma abstrata de um Ass
 Conectando isso ao conceito de Programação Orientada a Objetos, poderíamos dizer que há uma Classe Abstrata `Assento`, de onde foram derivadas as Subclasses `Cadeira`, `Banco` e `Poltrona`.
 
 ---
-
-**E como funciona o nosso Mundo Eterno?** 
+### **E como funciona o nosso Mundo Eterno?** 
 
 Em O Chamado Celeste, o Mundo Eterno é essencialmente de onde vem o código abstrato que forma o resto da existência. É uma camada além da nossa realidade, de onde são instanciados todos os Objetos do [[Mundo Real]]. 
 
