@@ -15,10 +15,10 @@ E é aí que surgem as Classes.
 
 Seguindo o nosso exemplo, poderia-se fazer uma classe `Automovel`, contendo toda a lógica de como funcionam as rodas, o motor, o farol e a buzina.
 Então, nós derivamos esta classe em outras subclasses.
-Para fazer uma limusine, poderia-se fazer a subclasse `Limusine`, puxando todos os atributos da classe pai `Automovel`, além de adicionar Atributos como `frigobar` ou modificando a quantidade do Atributo `roda`.
-Outro exemplo seria a Subclasse `Caminhao`, com o valor do  atributo de "peso" modificado para ser maior, e o Atributo "buzina" sendo modificado para ser mais barulhento. 
+Para fazer uma limusine, poderia-se fazer a subclasse `Limusine`, puxando todos os atributos da classe pai `Automovel`, além de adicionar Atributos como `frigobar` ou modificando a quantidade do Atributo `assentos`.
+Outro exemplo seria a Subclasse `Caminhao`, com o valor do  atributo de `peso` modificado para ser maior, e o Atributo `buzina` sendo modificado para ser mais barulhento. 
 
-Um objeto seria uma instância específica dos atributos de uma classe. 
+Um objeto seria uma instância específica dos atributos de uma classe.  Daí vem o nome, Programação Orientada a Objetos.
 
 Em outras palavras:
 Classe: `Automovel`
@@ -45,4 +45,4 @@ Em O Chamado Celeste, o Mundo Eterno é essencialmente de onde vem o código abs
 
 A nossa compreensão deste plano é limitado, da mesma forma que um ser de plano bidimensional teria dificuldade de entender a profundidade que um ser tridimensional consegue compreender com facilidade, os seres do [[Mundo Real]] têm dificuldade de entender o que ocorre no Mundo Eterno.
 
-O que se sabe é que, através de treinamento técnico extensivo e aprofundado, certas pessoas adquirem a capacidade de essencialmente "Executar Códigos de Trapaça" na programação da realidade em si, tendo efeitos como a manipulação de atributos dos objetos da existência, ou a instanciação de objetos com base no que existe no código.
+O que se sabe é que, através de treinamento técnico extensivo e aprofundado, [[Feiticeiros|certas pessoas]] adquirem a capacidade de essencialmente "Executar Códigos de Trapaça" na programação da realidade em si, tendo efeitos como a manipulação de atributos dos objetos da existência, ou a instanciação de objetos com base no que existe no código.

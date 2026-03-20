@@ -42,7 +42,7 @@ A partir daí, a Caligem vai começar a surgir no mundo físico.  Sentindo toda 
 A Caligem sempre vai saber onde sua Fonte está, não importa onde.
 Inicialmente, a Caligem simplesmente interrompe o sono de suas fontes. Porém com o passar dos tempos, a Caligem fica mais e mais agressiva, eventualmente resultando em ataques violentos, que frequentemente terminam em morte.
 
-Quando uma pessoa acorda, a Caligem demora de 30-120 segundos para parar de existir no [[Mundo Real]] . Quando uma pessoa morre, a Caligem desaparece imediatamente, no mesmo exato momento em que a pessoa solta seu último suspiro.
+Quando uma pessoa acorda, a Caligem demora de 30-120 segundos para parar de existir no [[Mundo Real]]. Quando uma pessoa morre, a Caligem desaparece imediatamente, no mesmo exato momento em que a pessoa solta seu último suspiro.
 
 Quaisquer obstáculos que aparecerem entre a Caligem e sua Fonte serão recebidas com violência extrema. O que pode ser rasgado, vai ser rasgado. O que pode ser estraçalhado, vai ser estraçalhado. Independente se o obstáculo for um ser vivo, ou não.
 

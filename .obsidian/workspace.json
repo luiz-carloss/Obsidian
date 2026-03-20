@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seres/Caligens.md",
+                "file": "Seres/Anjos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caligens"
+              "title": "Anjos"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,12 +184,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0de511df6e0c65f",
+  "active": "05b28a659a01c514",
   "lastOpenFiles": [
-    "Seres/Anjos.md",
-    "Existência/As Camadas da Existência.md",
-    "Existência/Mundo Eterno.md",
     "Seres/Caligens.md",
+    "Seres/Anjos.md",
+    "Personagens/Almos Ribeiro.md",
+    "Personagens/Félix Angelus.md",
+    "Personagens/Jack.md",
+    "Existência/As Camadas da Existência.md",
+    "Personagens/As Composições/Dominic Octavius.md",
+    "Personagens/As Composições/João.md",
+    "Personagens/As Composições/Lestari Angelus.md",
+    "Personagens/As Composições/Solange Lyra.md",
+    "Personagens/As Composições/Minerva Ide.md",
+    "Personagens/As Composições/Rodin Eisen.md",
+    "Personagens/As Composições/Umbriel Tempest.md",
+    "Personagens/Lanni 2.7.md",
+    "Personagens/As Composições",
+    "Personagens/Kali Nascimento.md",
+    "Seres/Feiticeiros.md",
+    "Personagens",
+    "Existência/Mundo Eterno.md",
+    "Existência/Mundo Real.md",
+    "Nitescência.md",
     "Seres",
     "Existência/Mundo dos Sonhos.md",
     "teste.md",
